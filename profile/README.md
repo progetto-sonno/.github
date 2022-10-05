@@ -1,4 +1,6 @@
-## Questo è il progetto Cook Coque per il corso di Ingegneria del Software dell'università di Trento.  
+# Cook Coque  
+Questo è il progetto Cook Coque per il corso di Ingegneria del Software dell'università di Trento: questo si basa sull'idea di creare un social network in cui cuochi di successo mettono a disposizione loro ricette per utenti meno talentuosi, così da permettere loro di migliorare nell'arte culinaria.  
+  
 Il gruppo è composto da: Zanibellato Giovanni, Marchesini Elena e Fanoni Sebastiano.
 
 <!--
